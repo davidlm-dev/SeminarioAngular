@@ -2,6 +2,10 @@
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.0.
 
+## Ejercicio
+
+He añadido un componente con ng generate component register y he utilizado como apoyo las slides del seminario y github copilot. También los comentarios que hicieron los profesores en el chat de gmail de la UPC.
+
 ## Development server
 
 To start a local development server, run:
